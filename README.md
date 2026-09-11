@@ -6,7 +6,7 @@ My personal repository for documenting progress, practice exercises, and console
 
 ## 🛠️ Tech Stack & Tools
 - **Language:** C# (.NET)
-- **IDE / Editor:** Visual Studio Code
+- **IDE / Editor:** Visual Studio
 - **Version Control:** Git & GitHub
 
 ---
