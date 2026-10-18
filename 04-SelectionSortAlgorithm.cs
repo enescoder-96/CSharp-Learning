@@ -1,5 +1,3 @@
-// SELECTION SORT ALGORITHM
-
 int[] numbers = { 9, 6, 7, 3, 4 };
 
 for (int i = 0; i < numbers.Length - 1; i++)
