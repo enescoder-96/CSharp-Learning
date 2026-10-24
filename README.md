@@ -15,4 +15,4 @@ My personal repository for documenting progress, practice exercises, and console
 | **02** | Hunting the Manticore | A turn-based tactical console game featuring modular methods, damage calculation algorithms, and colored UI states. | [View Code](./02-HuntingTheManticore.cs) |
 | **03** | Bubble Sort Algorithm | A bubble sort algorithm in C#. | [View Code](./03-BubbleSortAlgorithm.cs) |
 | **04** | Selection Sort Algorithm | A selection sort algorithm in C# | [View Code](./04-SelectionSortAlgorithm.cs) |
-| **05** | Insertion Sort Algorithm | A insertion sort algorithm in C# | [View Code](./05-InsertionSortAlgorithm.cs) |
+| **05** | Insertion Sort Algorithm | An insertion sort algorithm in C# | [View Code](./05-InsertionSortAlgorithm.cs) |
